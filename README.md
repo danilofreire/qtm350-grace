@@ -2,7 +2,7 @@
 
 ## SQL Queries
 
-In this quiz, you will test your SQL skills through queries using two tables. The tables refer to Nobel Prize winners and their respective personal information. The data and questions are available in the `quiz04.ipynb` file. The tables are as follows.
+In this quiz, you will test your SQL skills through queries using two tables. The tables refer to Nobel Prize winners and their respective personal information. The data and questions are available in the `quiz-grace.ipynb` file. The tables are as follows.
 
 ### Table Structures
 
